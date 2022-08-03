@@ -18,7 +18,7 @@
 <br/>
 <br/>
 
-### Tech I User
+### Tech I Use
 <img width="34" height="34" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" align="left" />
 <img width="34" height="34" src="https://avatars.githubusercontent.com/u/1609975?s=200&v=4" align="left" />
 <img width="34" height="34" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" align="left" />
