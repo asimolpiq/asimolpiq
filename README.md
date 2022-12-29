@@ -33,14 +33,14 @@
 <br/>
 
 <br/>
-<details> 
+
 <summary> :bulb: Github Stats </summary>
 <img src="https://github-readme-stats.vercel.app/api?username=asimolpiq&show_icons=true&theme=dracula">
-</details>
-<details> 
+
+
 <summary> :bulb: Most Used Languages </summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimolpiq&langs_count=8&theme=dracula">
-</details>
+
 
 
 <h4 align="center">Visitor's count :eyes:</h4>
