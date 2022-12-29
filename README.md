@@ -12,8 +12,6 @@
 <a href="https://www.linkedin.com/in/alpay-guroglu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@kadriyemacit-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.youtube.com/channel/UCr7ID6adCzeurT4_gCjK9OA" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@alpayguroglu3824-red?style=flat&logo=youtube"></a>
 
-<br/>
-<br/>
 
 ### Tech I Use
 <img width="34" height="34" src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" align="left" />
