@@ -1,3 +1,7 @@
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{asimolpiq}/count.svg" alt="Asimolpiq :: Visitor's Count" /></p>
+
 <img src="https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif" align="right" width="300" height="250">
 
 ### Hi there, I'm Alpay GÜROĞLU. :stuck_out_tongue_winking_eye:
@@ -43,9 +47,7 @@
 
 
 
-<h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{asimolpiq}/count.svg" alt="Asimolpiq :: Visitor's Count" /></p>
 
 [youtube]: https://www.youtube.com/channel/UCr7ID6adCzeurT4_gCjK9OA
 [twitter]: https://twitter.com/asimolpiq
