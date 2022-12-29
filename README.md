@@ -10,7 +10,8 @@
 ### Reach out to me
 
 <a href="https://www.linkedin.com/in/alpay-guroglu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@alpayguroglu-blue?style=flat&logo=linkedin"></a>
-<a href="https://www.youtube.com/channel/UCr7ID6adCzeurT4_gCjK9OA" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@alpayguroglu3824-red?style=flat&logo=youtube"></a>
+<a href="https://www.youtube.com/channel/UCr7ID6adCzeurT4_gCjK9OA" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-@alpayguroglu-red?style=flat&logo=youtube"></a>
+<a href="https://twitter.com/asimolpiq" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@asimolpiq-blue?style=flat&logo=twitter"></a>
 
 
 ### Tech I Use
