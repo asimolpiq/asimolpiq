@@ -31,18 +31,21 @@
 
 
 <br/>
-<h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{asimolpiq}/count.svg" alt="Asimolpiq :: Visitor's Count" /></p>
 <br/>
 <details> 
 <summary> :bulb: Github Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=asimolpiq">
+<img src="https://github-readme-stats.vercel.app/api?username=asimolpiq&show_icons=true&theme=dracula">
 </details>
 <details> 
 <summary> :bulb: Most Used Languages </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimolpiq&langs_count=8">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimolpiq&langs_count=8&theme=dracula">
 </details>
+
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{asimolpiq}/count.svg" alt="Asimolpiq :: Visitor's Count" /></p>
 
 [youtube]: https://www.youtube.com/channel/UCr7ID6adCzeurT4_gCjK9OA
 [twitter]: https://twitter.com/asimolpiq
