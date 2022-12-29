@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{asimolpiq}/count.svg" alt="Asimolpiq :: Visitor's Count" /></p>
 
-<img src="https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif" align="right" width="300" height="250">
+<img src="https://media.giphy.com/media/l4pThMAKS4BOtz8d2/giphy.gif" align="right" width="250" height="200">
 
 ### Hi there, I'm Alpay GÜROĞLU. :stuck_out_tongue_winking_eye:
 ## Mobile Developer | Native and Cross Platform Development :iphone:
